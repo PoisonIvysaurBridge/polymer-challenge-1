@@ -1,5 +1,5 @@
 # polymer-challenge-1 for WEBTECH class
- A mini polymer challenge that applies web component navigation, DOM manipulation without refreshing.
+ A mini polymer challenge from WEBTECH class that applies web component navigation, DOM manipulation without refreshing.
  
  General  Instructions:  Using  the  existing  template  and  hands-on  exercise  as  your  base  knowledge  in creating a simple Polymer app, create a simple registration view that asks for the user’s first name, last name, and email. For each registered user, create a separate custom view to display their information and add the custom views in the iron-pages and iron-selector modules.
  
